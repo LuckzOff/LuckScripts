@@ -1,3 +1,6 @@
+local OrionLib = loadstring(game:HttpGet(
+                                ('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+				
 local Window = OrionLib:MakeWindow({
     Name = [[<font color="rgb(30,0,255)">Luck Scripts</font>]],
     HidePremium = false,
